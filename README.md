@@ -4,7 +4,7 @@
 
 # setup
 
-1. `git clone https://github.com/Khezen/docker-postgres.git`
+1. `git clone https://github.com/niemisami/docker-files.git`
 2. `cd docker-files`
 3. `docker-compose up`
 
